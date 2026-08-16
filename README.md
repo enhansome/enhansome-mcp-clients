@@ -1159,7 +1159,7 @@ Save playbooks:
 
 1. It handles the pesky business of managing the lifecycle of MCP server connections so you don't have to.
 2. It implements every pattern described in Building Effective Agents, and does so in a *composable* way, allowing you to chain these patterns together.
-3. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) ⭐ 21,906 | 🐛 35 | 🌐 Python | 📅 2026-04-15 pattern for multi-agent orchestration, but in a model-agnostic way.
+3. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) ⭐ 21,905 | 🐛 35 | 🌐 Python | 📅 2026-04-15 pattern for multi-agent orchestration, but in a model-agnostic way.
 
 ### LobeHub
 
@@ -2198,8 +2198,8 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 
 ## Servers
 
-Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,383 | 🐛 2,979 | 📅 2026-08-03 repository.
+Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,439 | 🐛 3,035 | 📅 2026-08-03 repository.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
