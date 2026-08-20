@@ -1003,7 +1003,7 @@ JDBCX extends JDBC by providing enhanced support for data formats and compressio
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat interface to the popular LLM APIs (Anthropic and OpenAI API formats supported). Experience automated tool loops: try asking your agent to use [wcgw](https://github.com/rusiaaman/wcgw) ⭐ 673 | 🐛 3 | 🌐 Python | 📅 2026-08-07 to make a change to a local repository, then fix linter and compiler errors, make a commit, and push to remote, all without user intervention! Even better, code on-the-go by setting up MCP servers on your laptop, then connecting from your mobile through [Kinode](https://github.com/kinode-dao/kinode) ⭐ 50 | 🐛 70 | 🌐 Rust | 📅 2026-04-02.
+kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat interface to the popular LLM APIs (Anthropic and OpenAI API formats supported). Experience automated tool loops: try asking your agent to use [wcgw](https://github.com/rusiaaman/wcgw) ⭐ 673 | 🐛 3 | 🌐 Python | 📅 2026-08-07 to make a change to a local repository, then fix linter and compiler errors, make a commit, and push to remote, all without user intervention! Even better, code on-the-go by setting up MCP servers on your laptop, then connecting from your mobile through [Kinode](https://github.com/kinode-dao/kinode) ⭐ 49 | 🐛 70 | 🌐 Rust | 📅 2026-04-02.
 
 <details>
 <summary>Screenshots</summary>
@@ -1159,7 +1159,7 @@ Save playbooks:
 
 1. It handles the pesky business of managing the lifecycle of MCP server connections so you don't have to.
 2. It implements every pattern described in Building Effective Agents, and does so in a *composable* way, allowing you to chain these patterns together.
-3. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) ⭐ 21,910 | 🐛 34 | 🌐 Python | 📅 2026-04-15 pattern for multi-agent orchestration, but in a model-agnostic way.
+3. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) ⭐ 21,909 | 🐛 33 | 🌐 Python | 📅 2026-04-15 pattern for multi-agent orchestration, but in a model-agnostic way.
 
 ### LobeHub
 
@@ -2198,8 +2198,8 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 
 ## Servers
 
-Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,576 | 🐛 3,216 | 📅 2026-08-17 repository.
+Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,620 | 🐛 3,255 | 📅 2026-08-17 repository.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
