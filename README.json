@@ -1,7 +1,58 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bonus: It implements OpenAI's Swarm",
+              "description": "pattern for multi-agent orchestration, but in a model-agnostic way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761974775,
+                "language": "Python",
+                "last_commit": "2026-04-15T17:10:28Z",
+                "owner": "openai",
+                "repo": "swarm",
+                "stars": 21919
+              }
+            }
+          ],
+          "description": "is a simple, composable framework to build agents using Model Context Protocol.\nInspiration: Anthropic announced 2 foundational updates for AI application developers:\nputs these two foundational pieces into an AI application framework:",
+          "node_type": "group",
+          "title": "mcp-agent"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Connects to MCP servers including its own official MCP server",
+              "description": "with 50+ tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 990355747,
+                "language": "TypeScript",
+                "last_commit": "2026-07-29T19:26:20Z",
+                "owner": "taskade",
+                "repo": "mcp",
+                "stars": 165
+              }
+            }
+          ],
+          "description": "Taskade is an AI-native workspace platform that connects to MCP servers for project management, AI agent orchestration, and workflow automation. Features custom AI agents with memory and knowledge bases, 8 workspace views, and real-time multiplayer collaboration.\nKey features:",
+          "node_type": "group",
+          "title": "Taskade"
+        }
+      ],
+      "title": "Clients"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T23:29:36.336Z",
+    "last_updated": "2026-08-24T13:58:21.250Z",
     "original_repository": "punkpeye/awesome-mcp-clients",
     "original_repository_id": 915233417,
     "original_repository_sha": "aeb965ecf9f29e367faff6425a2507c5e8eb26c7",
