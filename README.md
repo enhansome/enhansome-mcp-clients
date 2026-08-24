@@ -1003,7 +1003,7 @@ JDBCX extends JDBC by providing enhanced support for data formats and compressio
 <tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
 </table>
 
-kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat interface to the popular LLM APIs (Anthropic and OpenAI API formats supported). Experience automated tool loops: try asking your agent to use [wcgw](https://github.com/rusiaaman/wcgw) ⭐ 673 | 🐛 3 | 🌐 Python | 📅 2026-08-07 to make a change to a local repository, then fix linter and compiler errors, make a commit, and push to remote, all without user intervention! Even better, code on-the-go by setting up MCP servers on your laptop, then connecting from your mobile through [Kinode](https://github.com/kinode-dao/kinode) ⭐ 49 | 🐛 70 | 🌐 Rust | 📅 2026-04-02.
+kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat interface to the popular LLM APIs (Anthropic and OpenAI API formats supported). Experience automated tool loops: try asking your agent to use [wcgw](https://github.com/rusiaaman/wcgw) ⭐ 673 | 🐛 5 | 🌐 Python | 📅 2026-08-07 to make a change to a local repository, then fix linter and compiler errors, make a commit, and push to remote, all without user intervention! Even better, code on-the-go by setting up MCP servers on your laptop, then connecting from your mobile through [Kinode](https://github.com/kinode-dao/kinode) ⭐ 49 | 🐛 70 | 🌐 Rust | 📅 2026-04-02.
 
 <details>
 <summary>Screenshots</summary>
@@ -1157,7 +1157,7 @@ Save playbooks:
 
 `mcp-agent` puts these two foundational pieces into an AI application framework:
 
-1. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) ⭐ 21,919 | 🐛 34 | 🌐 Python | 📅 2026-04-15 pattern for multi-agent orchestration, but in a model-agnostic way.
+1. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) ⭐ 21,919 | 🐛 35 | 🌐 Python | 📅 2026-04-15 pattern for multi-agent orchestration, but in a model-agnostic way.
 2. It handles the pesky business of managing the lifecycle of MCP server connections so you don't have to.
 3. It implements every pattern described in Building Effective Agents, and does so in a *composable* way, allowing you to chain these patterns together.
 
@@ -2198,7 +2198,7 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 
 ## Servers
 
-Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,738 | 🐛 3,437 | 📅 2026-08-17 repository.
+Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,751 | 🐛 3,461 | 📅 2026-08-17 repository.
 
 ***
 
