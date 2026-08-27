@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-15T17:10:28Z",
                 "owner": "openai",
                 "repo": "swarm",
-                "stars": 21926
+                "stars": 21927
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-25T18:56:13Z",
                 "owner": "taskade",
                 "repo": "mcp",
-                "stars": 165
+                "stars": 163
               }
             }
           ],
@@ -52,9 +52,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:28:50.113Z",
-    "original_repository": "punkpeye/awesome-mcp-clients",
-    "original_repository_id": 915233417,
+    "last_updated": "2026-08-27T11:50:02.919Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 915233417,
+      "language": null,
+      "last_commit": "2026-06-07T18:57:48Z",
+      "owner": "punkpeye",
+      "repo": "awesome-mcp-clients",
+      "stars": 6556
+    },
     "original_repository_sha": "aeb965ecf9f29e367faff6425a2507c5e8eb26c7",
     "enhanced_repository": "enhansome/enhansome-mcp-clients",
     "enhanced_repository_description": null,
