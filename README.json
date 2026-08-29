@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+                "homepage": null,
                 "id": 761974775,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-15T17:10:28Z",
+                "open_issues": 35,
                 "owner": "openai",
                 "repo": "swarm",
-                "stars": 21929
+                "stars": 21929,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:52:15.527Z"
             }
@@ -35,12 +40,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
+                "homepage": "https://taskade.com/blog/mcp",
                 "id": 990355747,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:56:13Z",
+                "open_issues": 11,
                 "owner": "taskade",
                 "repo": "mcp",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "ai",
+                  "ai-agent",
+                  "ai-agents",
+                  "autonomous-agents",
+                  "integrations",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "model-context-protocol-server",
+                  "model-context-protocol-servers",
+                  "no-code-automation",
+                  "openapi",
+                  "openapi-codegen",
+                  "openapi3",
+                  "productivity",
+                  "taskade",
+                  "workflow",
+                  "workflow-automation",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T06:52:15.527Z"
             }
@@ -54,15 +85,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:52:15.527Z",
+    "last_updated": "2026-08-29T04:06:42.783Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of MCP clients.",
+      "homepage": "https://glama.ai/mcp/clients",
       "id": 915233417,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-07T18:57:48Z",
+      "open_issues": 82,
       "owner": "punkpeye",
       "repo": "awesome-mcp-clients",
-      "stars": 6556
+      "stars": 6556,
+      "topics": [
+        "clients",
+        "mcp"
+      ]
     },
     "original_repository_sha": "aeb965ecf9f29e367faff6425a2507c5e8eb26c7",
     "enhanced_repository": "enhansome/enhansome-mcp-clients",
