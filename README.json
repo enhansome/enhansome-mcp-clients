@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "openai",
                 "repo": "swarm",
-                "stars": 21957,
+                "stars": 21960,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:15.527Z"
@@ -85,7 +85,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:11:37.885Z",
+    "last_updated": "2026-09-10T00:59:22.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of MCP clients.",
