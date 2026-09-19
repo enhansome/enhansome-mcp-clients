@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-15T17:10:28Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "openai",
                 "repo": "swarm",
                 "stars": 21987,
@@ -85,7 +85,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:13:08.685Z",
+    "last_updated": "2026-09-19T01:07:33.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of MCP clients.",
@@ -94,10 +94,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-07T18:57:48Z",
-      "open_issues": 99,
+      "open_issues": 98,
       "owner": "punkpeye",
       "repo": "awesome-mcp-clients",
-      "stars": 6584,
+      "stars": 6585,
       "topics": [
         "clients",
         "mcp"

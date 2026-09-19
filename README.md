@@ -1157,7 +1157,7 @@ Save playbooks:
 
 `mcp-agent` puts these two foundational pieces into an AI application framework:
 
-1. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) ⭐ 21,987 | 🐛 35 | 🌐 Python | 📅 2026-04-15 pattern for multi-agent orchestration, but in a model-agnostic way.
+1. **Bonus**: It implements [OpenAI's Swarm](https://github.com/openai/swarm) ⭐ 21,987 | 🐛 36 | 🌐 Python | 📅 2026-04-15 pattern for multi-agent orchestration, but in a model-agnostic way.
 2. It handles the pesky business of managing the lifecycle of MCP server connections so you don't have to.
 3. It implements every pattern described in Building Effective Agents, and does so in a *composable* way, allowing you to chain these patterns together.
 
@@ -2198,8 +2198,8 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 
 ## Servers
 
-Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,176 | 🐛 2,239 | 📅 2026-09-15 repository.
+Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,235 | 🐛 2,285 | 📅 2026-09-15 repository.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
