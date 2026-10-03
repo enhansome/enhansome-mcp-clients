@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "openai",
                 "repo": "swarm",
-                "stars": 22031,
+                "stars": 22033,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:15.527Z"
@@ -46,7 +46,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-20T13:31:19Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "taskade",
                 "repo": "mcp",
                 "stars": 165,
@@ -85,7 +85,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:07:55.318Z",
+    "last_updated": "2026-10-03T01:51:59.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of MCP clients.",
@@ -94,10 +94,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-07T18:57:48Z",
-      "open_issues": 107,
+      "open_issues": 108,
       "owner": "punkpeye",
       "repo": "awesome-mcp-clients",
-      "stars": 6592,
+      "stars": 6593,
       "topics": [
         "clients",
         "mcp"
