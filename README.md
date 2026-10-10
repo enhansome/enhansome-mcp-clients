@@ -1653,7 +1653,7 @@ Self-hosted multi-agent AI runtime. Acts as both an MCP client and an MCP server
 
 Key features:
 
-* Connects to MCP servers including its own [official MCP server](https://github.com/taskade/mcp) ⭐ 165 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-20 with 50+ tools
+* Connects to MCP servers including its own [official MCP server](https://github.com/taskade/mcp) ⭐ 165 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-09 with 50+ tools
 * Custom AI agents with memory, knowledge bases, and tool integration
 * 8 workspace views (list, board, table, mind map, org chart, calendar, gallery, action)
 * Real-time multiplayer collaboration across all platforms
@@ -2198,8 +2198,8 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 
 ## Servers
 
-Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,940 | 🐛 2,714 | 📅 2026-10-08 repository.
+Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,002 | 🐛 2,574 | 📅 2026-10-09 repository.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
