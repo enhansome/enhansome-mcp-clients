@@ -21,7 +21,7 @@
                 "open_issues": 38,
                 "owner": "openai",
                 "repo": "swarm",
-                "stars": 22089,
+                "stars": 22091,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:15.527Z"
@@ -41,12 +41,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
-                "homepage": "https://taskade.com/blog/mcp",
+                "homepage": "https://www.taskade.com/docs/mcp",
                 "id": 990355747,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T07:35:29Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-31T16:16:22Z",
+                "open_issues": 9,
                 "owner": "taskade",
                 "repo": "mcp",
                 "stars": 170,
@@ -55,18 +55,14 @@
                   "ai-agent",
                   "ai-agents",
                   "autonomous-agents",
-                  "genesis",
+                  "claude",
+                  "cursor",
                   "integrations",
                   "mcp",
                   "mcp-server",
                   "mcp-tools",
                   "model-context-protocol",
-                  "model-context-protocol-server",
-                  "model-context-protocol-servers",
                   "no-code-automation",
-                  "openapi",
-                  "openapi-codegen",
-                  "openapi3",
                   "taskade",
                   "workflow",
                   "workflow-automation",
@@ -85,7 +81,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:14:03.423Z",
+    "last_updated": "2026-11-01T02:05:49.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of MCP clients.",
@@ -94,10 +90,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-07T18:57:48Z",
-      "open_issues": 159,
+      "open_issues": 161,
       "owner": "punkpeye",
       "repo": "awesome-mcp-clients",
-      "stars": 6617,
+      "stars": 6618,
       "topics": [
         "clients",
         "mcp"
