@@ -45,8 +45,8 @@
                 "id": 990355747,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T23:24:03Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-05T00:10:21Z",
+                "open_issues": 11,
                 "owner": "taskade",
                 "repo": "mcp",
                 "stars": 171,
@@ -81,7 +81,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:58:17.201Z",
+    "last_updated": "2026-11-05T03:24:33.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of MCP clients.",
@@ -93,7 +93,7 @@
       "open_issues": 166,
       "owner": "punkpeye",
       "repo": "awesome-mcp-clients",
-      "stars": 6619,
+      "stars": 6620,
       "topics": [
         "clients",
         "mcp"
