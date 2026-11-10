@@ -81,7 +81,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:33:24.154Z",
+    "last_updated": "2026-11-10T04:34:18.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of MCP clients.",
@@ -90,10 +90,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-07T18:57:48Z",
-      "open_issues": 176,
+      "open_issues": 177,
       "owner": "punkpeye",
       "repo": "awesome-mcp-clients",
-      "stars": 6632,
+      "stars": 6634,
       "topics": [
         "clients",
         "mcp"
