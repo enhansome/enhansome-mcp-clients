@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "openai",
                 "repo": "swarm",
-                "stars": 22146,
+                "stars": 22148,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:15.527Z"
@@ -40,34 +40,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
+                "description": "🤖 Official Taskade MCP server and agent plugin. Connect Claude, Cursor, Codex and other MCP clients to your Taskade workspace. Plus OpenAPI-to-MCP codegen.",
                 "homepage": "https://www.taskade.com/docs/mcp",
                 "id": 990355747,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-15T06:14:10Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-19T01:22:25Z",
+                "open_issues": 6,
                 "owner": "taskade",
                 "repo": "mcp",
                 "stars": 170,
                 "topics": [
-                  "ai",
-                  "ai-agent",
+                  "agent-skills",
                   "ai-agents",
-                  "autonomous-agents",
                   "claude",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "code-generation",
+                  "codex",
+                  "codex-plugin",
                   "cursor",
+                  "cursor-plugin",
                   "gemini-cli-extension",
-                  "integrations",
                   "mcp",
                   "mcp-server",
                   "mcp-tools",
                   "model-context-protocol",
-                  "no-code-automation",
+                  "openapi",
                   "taskade",
-                  "workflow",
-                  "workflow-automation",
-                  "workflows"
+                  "taskade-genesis",
+                  "typescript",
+                  "workflow-automation"
                 ]
               },
               "first_seen": "2026-08-28T06:52:15.527Z"
@@ -82,7 +85,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:08:11.289Z",
+    "last_updated": "2026-11-19T04:04:36.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of MCP clients.",
@@ -91,10 +94,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-07T18:57:48Z",
-      "open_issues": 185,
+      "open_issues": 187,
       "owner": "punkpeye",
       "repo": "awesome-mcp-clients",
-      "stars": 6641,
+      "stars": 6642,
       "topics": [
         "clients",
         "mcp"
